@@ -3,3 +3,25 @@
 ---
 
 @import "minima";
+
+div.trail {
+    text-align: center;
+}
+
+nav.trail {
+    display: inline-block;
+}
+
+nav.trail ul {
+    list-style-type: none;
+    display: inline-block;
+}
+
+nav.trail li {
+    padding: 10px;
+    float: left;
+}
+
+div.picture {
+    text-align: center;
+}
